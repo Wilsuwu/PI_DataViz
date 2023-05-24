@@ -10,6 +10,8 @@ Luego, realicé análisis univariados, que consisten en examinar cada variable p
 
 Además, realicé análisis bivariados para explorar la relación entre dos variables. En este caso, examinamos tanto variables numéricas como variables categóricas. Utilicé la correlación para determinar si existe alguna relación lineal entre las variables numéricas. Utilicé un mapa de calor para representar visualmente la matriz de correlación, donde los valores más altos indican una correlación más fuerte.
 
+Al final realice un analisis de texto con la columna summary, con el objetivo de conocer causas o contextos más comunes y particulares tambien de los accidentes aereos.
+
 Finalmente, realicé otros análisis que consideré relevantes para comprender mejor los datos. Estos análisis pueden variar dependiendo del conjunto de datos específico y los objetivos del estudio. Estos análisis pueden incluir la detección de patrones o tendencias, la identificación de outliers o valores atípicos, y cualquier otra exploración que ayude a obtener una comprensión más profunda de los datos.
 
 Presenté todo el análisis en un notebook (.ipynb) utilizando adecuadamente markdowns y comentarios. Esto me permitió documentar cada paso del proceso y compartir los resultados de manera clara y comprensible.
